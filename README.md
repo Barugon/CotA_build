@@ -1,4 +1,4 @@
-# CotA_build
+# cota_build
 Linux and Windows builds of CotA
 
 Click the appropriate zip file above and then the Download button. 
